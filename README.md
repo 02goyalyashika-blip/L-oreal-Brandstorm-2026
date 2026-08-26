@@ -5,7 +5,7 @@
 > Reimagining fragrance from projection to intimacy through a skin-anchored, refill-driven luxury ritual.
 
 [![L'Oréal Brandstorm 2026](https://img.shields.io/badge/L'Or%C3%A9al%20Brandstorm-2026-111111?style=flat-square)](https://brandstorm.loreal.com/)
-[![Case Study](https://img.shields.io/badge/Portfolio-Case%20Study-c9a66b?style=flat-square)](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)
+[![Portfolio Case Study](https://img.shields.io/badge/Portfolio-Case%20Study-c9a66b?style=flat-square)](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)
 
 ## At a Glance
 
@@ -20,27 +20,33 @@
 
 **What can L'Oréal do to move beyond “spraying” to “infusing”?**
 
-The project reframes fragrance around a simple observation:
+The team reframed fragrance around a simple observation:
 
 > **“Fragrance today sits on skin — it doesn’t belong to it.”**
 
 ---
 
-## The Case Study
+## Start Here
 
 **[01 — Project Overview](docs/project-overview.md)**  
-How the consumer problem was reframed into an innovation opportunity.
+Executive view of the problem, concept and strategic logic.
 
 **[02 — Consumer Insights](docs/consumer-insights.md)**  
-The signals, tensions and strategic insight behind the concept.
+Consumer tensions, signals and the strategic reframing behind the opportunity.
 
 **[03 — Solution Design](docs/solution-design.md)**  
-How the Velum experience moves from preparation to infusion, adaptation and hygiene.
+The proposed Velum journey from preparation to application, infusion, adaptation and hygiene.
 
 **[04 — Business Strategy](docs/business-strategy.md)**  
 Target consumer, business model, go-to-market and commercial assumptions.
 
-**[05 — Research & Evidence](docs/research-references.md)**  
+**[05 — Implementation Roadmap](docs/implementation-roadmap.md)**  
+A proposed path from concept to consumer, technology and commercial validation.
+
+**[06 — My Contribution](docs/my-contribution.md)**  
+My individual contribution to the team project.
+
+**[07 — Research & Evidence](docs/research-references.md)**  
 What came from the final submission, what was proposed, and what remains an assumption.
 
 ---
@@ -69,6 +75,16 @@ Velum is a proposed **infusion-first fragrance ritual** combining:
 - refillable, long-life hardware.
 
 The submitted concept describes this as **“a scent that lives with you, not in the air.”**
+
+---
+
+## My Contribution
+
+This was a collaborative team project. My contribution focused on **consumer insight, concept refinement, product visual development, business strategy, and storytelling**.
+
+I contributed to identifying and synthesizing the consumer tensions around fragrance longevity, personalization and premium experience; helped refine another team member's core product innovation; developed its visual expression; contributed to the hero-product + refill business narrative and go-to-market logic; and helped structure the final story from consumer problem through solution and business potential.
+
+**[Read the full contribution breakdown →](docs/my-contribution.md)**
 
 ---
 
@@ -110,44 +126,43 @@ Selected competition-stage assumptions:
 
 ### Presentation
 
-`presentation/Three_Amigos_L-Oreal_Brandstorm_2026_Presentation.pdf`
+[**Open the final presentation →**](presentation/Three_Amigos_L-Oreal_Brandstorm_2026_Presentation.pdf)
 
 ### Pitch video
 
-`video/Three-Amigos_Brandstorm_2026_Pitch.mp4`
+[**Open the pitch-video folder →**](video/)
 
 ### Case-study documentation
 
-The `docs/` folder turns the submission into a recruiter-friendly narrative covering **consumer insight → innovation → business strategy**.
+The `docs/` folder turns the submission into a recruiter-friendly narrative covering **consumer insight → innovation → business strategy → implementation**.
 
 ---
 
 ## Skills Demonstrated
 
-`Consumer Insight` · `Market Analysis` · `Brand Strategy` · `Innovation Strategy` · `Business Model Design` · `Go-To-Market` · `Luxury Branding` · `Pitch Storytelling` · `Presentation Design`
+`Consumer Insight` · `Market Analysis` · `Brand Strategy` · `Innovation Strategy` · `Concept Refinement` · `Product Visual Development` · `Business Model Design` · `Go-To-Market` · `Luxury Branding` · `Storytelling`
 
 ---
 
 ## Portfolio Note
 
-This repository documents the **Three Amigos** L'Oréal Brandstorm 2026 concept as a portfolio case study. It preserves the final submission as the authoritative competition artifact while clearly distinguishing **evidence, proposed concept elements and concept-stage assumptions**.
+This repository documents the **Three Amigos** L'Oréal Brandstorm 2026 concept as a portfolio case study. It preserves the final competition submission as the authoritative artifact while clearly distinguishing **evidence, proposed concept elements, and concept-stage assumptions**.
 
-### Personal contribution
-
-**To be completed with Yashika's exact responsibilities before the repository is used as a job-application portfolio piece.**
+The repository is intentionally framed around **what I contributed to the team project**, rather than claiming sole ownership of the overall Velum concept.
 
 ---
 
-### Repository Roadmap
+## Repository Status
 
 - [x] Executive README
 - [x] Project overview
 - [x] Consumer insights
 - [x] Solution design
 - [x] Business strategy
+- [x] Implementation roadmap
 - [x] Research & evidence notes
-- [x] Presentation and pitch-video documentation
-- [ ] Upload final presentation PDF
-- [ ] Upload final pitch video
-- [ ] Add selected visual assets
-- [ ] Finalize personal contribution section
+- [x] Personal contribution
+- [x] Presentation uploaded
+- [x] Pitch video uploaded
+- [ ] Add selected visual assets if they materially improve the case study
+- [ ] Make repository public for job applications
