@@ -164,5 +164,5 @@ The repository is intentionally framed around **what I contributed to the team p
 - [x] Personal contribution
 - [x] Presentation uploaded
 - [x] Pitch video uploaded
-- [ ] Add selected visual assets if they materially improve the case study
-- [ ] Make repository public for job applications
+- [x] Public repository
+- [x] About description & topics configured
