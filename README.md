@@ -4,102 +4,150 @@
 >
 > Reimagining fragrance from projection to intimacy through a skin-anchored, refill-driven luxury ritual.
 
-## Project Snapshot
+[![L'Oréal Brandstorm 2026](https://img.shields.io/badge/L'Or%C3%A9al%20Brandstorm-2026-111111?style=flat-square)](https://brandstorm.loreal.com/)
+[![Case Study](https://img.shields.io/badge/Portfolio-Case%20Study-c9a66b?style=flat-square)](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)
 
-**Competition:** L'Oréal Brandstorm 2026  
-**Team:** Three Amigos  
-**Concept:** **Velum**  
-**Focus:** Consumer Insight · Beauty Innovation · Luxury Strategy · Sustainability · Beauty Tech
+## At a Glance
 
-Velum asks: **What can L'Oréal do to move beyond “spraying” to “infusing”?**
+| | |
+|---|---|
+| **Competition** | L'Oréal Brandstorm 2026 |
+| **Team** | Three Amigos |
+| **Concept** | **Velum** |
+| **Focus** | Consumer Insight · Beauty Innovation · Luxury Strategy · Sustainability · Beauty Tech |
 
-The concept proposes an infusion-first fragrance ritual intended to move scent from fleeting projection toward intimate, skin-anchored wear.
+### The strategic question
 
-## The Challenge
+**What can L'Oréal do to move beyond “spraying” to “infusing”?**
 
-The final submission frames a consumer gap around three needs:
-
-- **Longevity** — fragrance that lasts beyond the first few hours.
-- **Personalization** — a scent experience that feels individual rather than generic.
-- **Technology & sustainability** — a more differentiated, responsible beauty experience.
-
-Our core framing:
+The project reframes fragrance around a simple observation:
 
 > **“Fragrance today sits on skin — it doesn’t belong to it.”**
 
-## The Solution: Velum
+---
 
-Velum combines fragrance, a smart application ritual and a refill-led system.
+## The Case Study
 
-### Preparation
-Alcohol-free diffusion using skin-compatible lipids/ceramides rather than harsh alcohol solvents.
+**[01 — Project Overview](docs/project-overview.md)**  
+How the consumer problem was reframed into an innovation opportunity.
 
-### Application
-A luxurious, painless “stamp” ritual using a proposed nano-diffusion applicator with approximately 500 rounded nano-tips (≤0.1 mm). The proposal positions this as surface-level diffusion within the stratum corneum, with no dermal penetration or systemic exposure.
+**[02 — Consumer Insights](docs/consumer-insights.md)**  
+The signals, tensions and strategic insight behind the concept.
 
-### Infusion
-Fragrance is designed to remain anchored within the stratum corneum for controlled, intimate release over time rather than immediate projection into the air.
+**[03 — Solution Design](docs/solution-design.md)**  
+How the Velum experience moves from preparation to infusion, adaptation and hygiene.
 
-### Adaptation
-The concept proposes that scent evolves differently with each individual's skin chemistry, supporting a **“Beauty for Each”** experience.
+**[04 — Business Strategy](docs/business-strategy.md)**  
+Target consumer, business model, go-to-market and commercial assumptions.
 
-### Post-use hygiene
-An integrated UV-C light in the cap is proposed to sanitize the applicator tips after every session.
+**[05 — Research & Evidence](docs/research-references.md)**  
+What came from the final submission, what was proposed, and what remains an assumption.
 
-## Mapping to L'Oréal R&I Priorities
+---
 
-| Priority | Velum contribution |
-| --- | --- |
-| **Beauty Tech & Digital Services** | Robotics / smart application ritual and tech-enhanced consumer experience |
-| **Green Sciences & Sustainability** | Refillable, long-life hardware; modular system; lower-waste model |
-| **Inclusive & Personalized Beauty** | “Beauty for Each” personalization based on individual skin chemistry |
+## The Challenge
+
+The final submission identifies three core opportunity areas:
+
+**Longevity** — fragrance that lasts beyond the first few hours.  
+**Personalization** — a scent experience that feels individual rather than generic.  
+**Technology & sustainability** — a more differentiated and responsible beauty experience.
+
+The team's strategic leap was to redesign the **delivery mechanism itself**, rather than simply optimize a conventional spray.
+
+---
+
+## The Solution — Velum
+
+Velum is a proposed **infusion-first fragrance ritual** combining:
+
+- alcohol-free diffusion;
+- a proposed nano-diffusion “stamp” applicator;
+- surface-level anchoring within the stratum corneum;
+- adaptation to individual skin chemistry;
+- integrated UV-C sanitation; and
+- refillable, long-life hardware.
+
+The submitted concept describes this as **“a scent that lives with you, not in the air.”**
+
+---
+
+## Strategic Fit with L'Oréal R&I
+
+| Priority | Velum proposition |
+|---|---|
+| **Beauty Tech & Digital Services** | Robotics / smart application ritual and tech-enhanced experience |
+| **Green Sciences & Sustainability** | Refillable hardware, modular system and lower-waste model |
+| **Inclusive & Personalized Beauty** | “Beauty for Each” personalization based on skin chemistry |
 | **Skin Science & Beauty** | Skin-barrier-informed, surface-level fragrance delivery |
 
-## Business Model & Go-To-Market
+---
 
-The final proposal combines a **hero product + refills** with a **DTC-led model and selective retail distribution**.
+## Commercial Model
 
-**Target:** Gen Z, Millennials and “Exception luxury” consumers.  
-**Geographic focus:** Europe, North America and Asia-Pacific.
+**Hero product + refills**  
+**DTC-led + selective retail**  
+**Limited luxury pilot → validation → scale**
 
-### Selected concept-stage assumptions from the final deck
+Selected competition-stage assumptions:
 
 | Metric | Proposal |
-| --- | ---: |
+|---|---:|
 | Target market | 125–130M |
 | Indicative unit cost | ~$120 |
 | Indicative ASP | $275–$325 |
 | Indicative gross margin | 60–80% |
 | Break-even timing | Year 1–2 |
 | Long-term users | 650,000 at 0.5% capture |
-| Indicative annual revenue at that scale | ~$325M |
+| Indicative annual revenue | ~$325M |
+| Indicative ROI | ~2–3× within 3 years |
 
-**Important:** These are competition-stage assumptions from the final submission, not independently validated forecasts.
+> **Note:** These are assumptions from the competition submission, not independently validated forecasts.
 
-## Impact-Oriented Growth
+---
 
-**Innovative** — fragrance combined with smart hardware, nano-stamp technology and UV-C auto-sanitization.
+## Final Deliverables
 
-**Sustainable & Scalable** — refillable cartridges, modular kiosks, circular design and a low-waste system.
+### Presentation
 
-**Community-centric** — a “Beauty for Each” experience connecting luxury with skill, dignity and empowerment through the proposed Master Senses Program.
+`presentation/Three_Amigos_L-Oreal_Brandstorm_2026_Presentation.pdf`
+
+### Pitch video
+
+`video/Three-Amigos_Brandstorm_2026_Pitch.mp4`
+
+### Case-study documentation
+
+The `docs/` folder turns the submission into a recruiter-friendly narrative covering **consumer insight → innovation → business strategy**.
+
+---
 
 ## Skills Demonstrated
 
-`Consumer Insight` `Market Analysis` `Brand Strategy` `Innovation Strategy` `Business Model Design` `Go-To-Market` `Luxury Branding` `Pitch Storytelling` `Presentation Design`
+`Consumer Insight` · `Market Analysis` · `Brand Strategy` · `Innovation Strategy` · `Business Model Design` · `Go-To-Market` · `Luxury Branding` · `Pitch Storytelling` · `Presentation Design`
+
+---
 
 ## Portfolio Note
 
-This repository documents the team's L'Oréal Brandstorm 2026 submission as a strategic innovation case study. The objective was to translate an unmet consumer need into a differentiated proposition spanning experience design, skin science, beauty technology, sustainability and commercial strategy.
+This repository documents the **Three Amigos** L'Oréal Brandstorm 2026 concept as a portfolio case study. It preserves the final submission as the authoritative competition artifact while clearly distinguishing **evidence, proposed concept elements and concept-stage assumptions**.
 
-## Deliverables
+### Personal contribution
 
-- Final presentation deck
-- Final pitch video
-- Supporting case-study documentation
+**To be completed with Yashika's exact responsibilities before the repository is used as a job-application portfolio piece.**
 
-## Team
+---
 
-**Three Amigos** — L'Oréal Brandstorm 2026
+### Repository Roadmap
 
-> **Personal contribution:** This section should be completed with your specific responsibilities before using the repository as a job-application portfolio piece.
+- [x] Executive README
+- [x] Project overview
+- [x] Consumer insights
+- [x] Solution design
+- [x] Business strategy
+- [x] Research & evidence notes
+- [x] Presentation and pitch-video documentation
+- [ ] Upload final presentation PDF
+- [ ] Upload final pitch video
+- [ ] Add selected visual assets
+- [ ] Finalize personal contribution section
