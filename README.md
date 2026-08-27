@@ -105,7 +105,7 @@ I contributed to identifying and synthesizing the consumer tensions around fragr
 **DTC-led + selective retail**  
 **Limited luxury pilot → validation → scale**
 
-Selected competition-stage assumptions:
+### Competition-stage commercial assumptions
 
 | Metric | Proposal |
 |---|---:|
@@ -118,7 +118,7 @@ Selected competition-stage assumptions:
 | Indicative annual revenue | ~$325M |
 | Indicative ROI | ~2–3× within 3 years |
 
-> **Note:** These are assumptions from the competition submission, not independently validated forecasts.
+> **Important:** These figures are competition-stage assumptions from the team submission, not independently validated forecasts or reported performance.
 
 ---
 
@@ -165,4 +165,4 @@ The repository is intentionally framed around **what I contributed to the team p
 - [x] Presentation uploaded
 - [x] Pitch video uploaded
 - [x] Public repository
-- [x] About description & topics configured
+- [x] Portfolio documentation aligned
