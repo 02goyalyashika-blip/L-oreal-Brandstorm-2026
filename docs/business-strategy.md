@@ -108,3 +108,7 @@ A practical next-stage strategy would therefore be:
 **Pilot → validate consumer behavior → validate technology and economics → expand channels → scale ecosystem**
 
 This sequence keeps the highest-risk assumptions testable before full-scale investment.
+
+## Portfolio framing
+
+All commercial figures above are **competition-stage assumptions or targets**, not demonstrated business performance. In a portfolio or interview, the stronger story is the logic connecting installed hardware, recurring refill behavior, premium positioning and staged validation.
